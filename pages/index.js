@@ -38,7 +38,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className={styles.center}>
+        {/* <div className={styles.center}>
           <Image
             className={styles.logo}
             src="/next.svg"
@@ -47,7 +47,7 @@ export default function Home() {
             height={37}
             priority
           />
-        </div>
+        </div> */}
 
      
       </main>
